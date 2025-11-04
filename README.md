@@ -1,6 +1,6 @@
 # Code for *Deconvoluting drug interactions based on M. tuberculosis physiologic processes: Transcriptional disaggregation of the BPaL regimen in vivo*
 
-**Manuscript status**: [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2025.02.24.639926v1.abstract)
+**Manuscript Status**: [Now published in Antimicrobial Agents and Chemotherapy](https://journals.asm.org/doi/full/10.1128/aac.00492-25)
 
 **Title**: *Deconvoluting drug interactions based on M. tuberculosis physiologic processes: Transcriptional disaggregation of the BPaL regimen in vivo* 
 
